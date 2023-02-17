@@ -10,7 +10,8 @@ namespace FunctionalProgramingSeries
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to functional programming series");
+
+            FindPrimeFactore.PrimeFactor();
         }
     }
 }
